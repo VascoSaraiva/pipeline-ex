@@ -1,4 +1,4 @@
-import classes from './CartButton.module.css';
+import classes from "./CartButton.module.css";
 
 const CartButton = (props) => {
   return (
@@ -10,6 +10,3 @@ const CartButton = (props) => {
 };
 
 export default CartButton;
-
-
-

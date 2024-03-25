@@ -4,10 +4,10 @@ import Products from "./components/Shop/Products";
 
 function App() {
   return (
-    <Layout>
+    <Layoutas>
       <Cart />
-      <Products />
-    </Layout>
+      <Products>
+    </Layoutas>
   );
 }
 
